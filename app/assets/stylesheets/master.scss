@@ -69,8 +69,27 @@ blockquote:before {
   line-height: 0.1em;
   margin-right: 0.25em;
   vertical-align: -0.4em;
+  background-size: 900px;
 }
 
 blockquote p {
   display: inline;
+}
+
+.btn-lg {
+  margin-left: 100px;
+}
+
+.col-10 {
+  margin-left: 100px;
+}
+
+img {
+  -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 900px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
