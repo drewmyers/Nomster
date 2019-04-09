@@ -10,7 +10,6 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require carrierwave/orm/activerecord
 //= require activestorage
 //= require jquery
 //= require jquery_ujs
