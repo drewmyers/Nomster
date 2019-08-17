@@ -14,7 +14,8 @@ A Yelp clone that integrates with the Google Maps API and includes features like
 
 - Github
 - Git
-- MySQL
+- Postgresql
+- CSS
 - Bootstrap
 - Pagination
 - Simple Form
