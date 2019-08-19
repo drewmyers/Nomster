@@ -1,24 +1,34 @@
-# README
+# Nomster
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Yelp clone that integrates with the Google Maps API and includes features like user comments, star ratings, image uploading, and user authentication.
 
-Things you may want to cover:
+# Nomster Deployed
 
-* Ruby version
+- https://nomster-drew-myers.herokuapp.com/
 
-* System dependencies
+# Screenshots
 
-* Configuration
+![nomster](https://user-images.githubusercontent.com/48326186/63216913-fe317a80-c10a-11e9-8209-6b059e2d8e0a.png)
 
-* Database creation
+# Tech/Framework Used
 
-* Database initialization
+- Ruby on Rails 2.5.1
+- Github
+- Git
+- Postgresql
+- CSS
+- Bootstrap
+- Pagination
+- Simple Form
+- Devise
+- Geocoding
+- Google API
+- SendGrid
 
-* How to run the test suite
+# How to Contribute
 
-* Services (job queues, cache servers, search engines, etc.)
+If interested in contributing clone my repo: Add a pull request, or open an issue.
 
-* Deployment instructions
+# Credit
 
-* ...
+- Drew Myers https://www.linkedin.com/in/drew-myers-70788a183/
