@@ -12,7 +12,7 @@ A Yelp clone that integrates with the Google Maps API and includes features like
 
 # Tech/Framework Used
 
-- Ruby on Rails 2.5.1
+- Ruby on Rails 2.5.3
 - Github
 - Git
 - Postgresql
