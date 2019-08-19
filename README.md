@@ -23,7 +23,7 @@ A Yelp clone that integrates with the Google Maps API and includes features like
 - Devise
 - Geocoding
 - Google API
-- Action Mailer
+- SendGrid
 
 # How to Contribute
 
