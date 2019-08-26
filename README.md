@@ -25,6 +25,13 @@ A Yelp clone that integrates with the Google Maps API and includes features like
 - Google API
 - SendGrid
 
+# Installation
+
+- Clone Repository
+- Run Bundle Install
+- Run rake db:create
+- Run rake db:migrate
+
 # How to Contribute
 
 If interested in contributing clone my repo: Add a pull request, or open an issue.
